@@ -13,9 +13,9 @@ Logo após a **classificação** desses clientes, a Alura Voz poderá tomar as m
 
 **Semana 2** - Explorando os dados - Vendo as informações por uma outra perspectiva
 
-**Semana 3** - Em cosntrução
+**Semana 3** - Em construção
 
-**Semana 4** - Em cosntrução
+**Semana 4** - Em construção
 
 
 
