@@ -15,8 +15,5 @@ Logo após a **classificação** desses clientes, a Alura Voz poderá tomar as m
 
 **Semana 3** - Exterminando o futuro: Criando modelos de ML e compartilhando com os humanos o projeto final - Em construção
 
-**Semana 4** - Em construção
-
-
 
 **#alurachallengedatascience1**
